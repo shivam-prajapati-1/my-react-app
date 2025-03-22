@@ -1,42 +1,118 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
+/* #Nav{
+  display: flex;
+  justify-content: space-between;
+background-color: aqua;  
+} */
+
+
+
+/* 
+
+
+#div1{
+ border: 2px solid black;
+ margin: 30px;
+ padding: 50px;
+ width: 150px;
+ background-color: aqua;
+}
+#bn{
+  margin: 5px;
+  background-color: red;
+}
+#bn:hover{
+  background-color: blue;
+} */
+
+
+
+
+
+
+
+
+
+/* App.css */
+
+
+/* body {
+  font-family: Arial, sans-serif;
 }
 
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
-}
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.react:hover {
-  filter: drop-shadow(0 0 2em #61dafbaa);
+.App {
+  padding: 20px;
 }
 
-@keyframes logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  a:nth-of-type(2) .logo {
-    animation: logo-spin infinite 20s linear;
-  }
+.hamburger {
+  font-size: 24px;
+  background: none;
+  border: none;
+  cursor: pointer;
 }
 
-.card {
-  padding: 2em;
+.horizontal-menu a {
+  margin-right: 20px;
+  text-decoration: none;
+  color: #333;
 }
 
-.read-the-docs {
-  color: #888;
+.horizontal-menu a:hover {
+  color: #007BFF;
 }
+
+.grid-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+.grid-table th, .grid-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.tile-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.tile {
+  background-color: #f8f8f8;
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin: 10px;
+  width: 200px;
+  cursor: pointer;
+}
+
+.tile:hover {
+  background-color: #eee;
+}
+
+.student-detail {
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+button {
+  margin-top: 10px;
+  padding: 5px 10px;
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+ */
